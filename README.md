@@ -30,8 +30,8 @@ Ogni file `.java` contiene:
 
 ![Medium](https://img.shields.io/badge/Medium-f89c0e)
 
-![Hard](https://img.shields.io/badge/Hard-d32f2f)
-
+![Hard](https://img.shields.io/badge/Hard-d32f2f)  
+&emsp;[Median of Two Sorted Arrays](src/array/hard/Median_of_Two_Sorted_Arrays_4.java)
 
 ## 📌 Nota
 Questa repository è un percorso di crescita: non tutte le soluzioni sono necessariamente le più ottimali.
