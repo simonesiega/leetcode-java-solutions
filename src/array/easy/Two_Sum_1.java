@@ -3,7 +3,7 @@ package array.easy;
 import java.util.*;
 
 /*
-Problema: Two Sum
+Problema: Two Sum (LeetCode #1)
 
 Testo:
 Given an array of integers nums and an integer target, return indices of the two numbers
@@ -27,14 +27,13 @@ Constraints:
 
 ----------------------------------------------------
 Ragionamento:
-- Per ogni elemento nums[i], cerco il suo "complemento" (target - nums[i]).
-- Se il complemento è già stato analizzato in precedenza, ho trovato la coppia.
-- Uso una HashMap per memorizzare i valori già incontrati e il loro indice.
+- Per ogni elemento nums[i], si calcola il suo "complemento" (target - nums[i]).
+- Se il complemento è già presente nella mappa, significa che è stata trovata la coppia richiesta.
+- Una HashMap viene utilizzata per memorizzare i valori già incontrati e i rispettivi indici.
 
 - Un approccio sbagliato è usare due cicli for annidati per confrontare tutte le coppie:
   - Vantaggio → usa solo O(1) spazio.
   - Svantaggio → richiede O(n^2) tempo, troppo lento per n fino a 10^4.
-
 ----------------------------------------------------
 Complessità:
 - Tempo: O(n), perché scorro l’array una sola volta.
