@@ -18,7 +18,7 @@ Le soluzioni sono divise per **argomento** (es. Arrays, Graphs, Dynamic Programm
 Ogni file `.java` contiene:
 - Spiegazione del problema  
 - Intuizione e approccio scelto
-- Analisi della complessità **tempo/spazio******
+- Analisi della complessità **tempo/spazio**
 - Soluzione in Java  
 
 
