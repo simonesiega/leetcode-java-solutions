@@ -31,6 +31,8 @@ Ogni file `.java` contiene:
 ![Medium](https://img.shields.io/badge/Medium-f89c0e)  
 &emsp;[Add Two Numbers](src/array/medium/Add_Two_Numbers_2.java)  
 &emsp;[Longest Substring Without Repeating Characters](src/array/medium/Longest_Substring_Without_Repeating_Characters_3.java)   
+&emsp;[Longest Palindromic Substring](src/array/medium/Longest_Palindromic_Substring_5.java)   
+&emsp;[ZigZag Conversion](src/array/medium/Zigzag_Conversion_6.java)   
 
 ![Hard](https://img.shields.io/badge/Hard-d32f2f)  
 &emsp;[Median of Two Sorted Arrays](src/array/hard/Median_of_Two_Sorted_Arrays_4.java)
