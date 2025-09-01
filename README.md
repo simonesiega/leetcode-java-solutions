@@ -28,7 +28,9 @@ Ogni file `.java` contiene:
 ![Easy](https://img.shields.io/badge/Easy-00b8a3)   
 &emsp;[Two Sum](src/array/easy/Two_Sum_1.java)
 
-![Medium](https://img.shields.io/badge/Medium-f89c0e)
+![Medium](https://img.shields.io/badge/Medium-f89c0e)  
+&emsp;[Add Two Numbers](src/array/medium/Add_Two_Numbers_2.java)  
+&emsp;[Longest Substring Without Repeating Characters](src/array/medium/Longest_Substring_Without_Repeating_Characters_3.java)   
 
 ![Hard](https://img.shields.io/badge/Hard-d32f2f)  
 &emsp;[Median of Two Sorted Arrays](src/array/hard/Median_of_Two_Sorted_Arrays_4.java)
