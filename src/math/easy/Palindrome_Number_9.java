@@ -1,4 +1,4 @@
-package array.easy;
+package math.easy;
 
 /*
 Problem: Palindrome Number (LeetCode #9)

@@ -1,4 +1,4 @@
-package array.medium;
+package String.medium;
 
 /*
 Problem: Longest Palindromic Substring (LeetCode #5)

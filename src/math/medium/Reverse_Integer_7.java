@@ -1,4 +1,4 @@
-package array.medium;
+package math.medium;
 
 /*
 Problem: Reverse Integer (LeetCode #7)

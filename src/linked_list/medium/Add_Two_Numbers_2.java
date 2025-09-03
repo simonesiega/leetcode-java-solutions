@@ -1,4 +1,4 @@
-package array.medium;
+package linked_list.medium;
 
 /*
 Problem: Add Two Numbers (LeetCode #2)
