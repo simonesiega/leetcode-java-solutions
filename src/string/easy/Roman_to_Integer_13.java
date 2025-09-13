@@ -1,4 +1,4 @@
-package String.easy;
+package string.easy;
 
 /*
 Problem: Roman to Integer (LeetCode #13)

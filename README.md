@@ -42,7 +42,7 @@ Ogni file `.java` contiene:
 ![Medium](https://img.shields.io/badge/Medium-f89c0e)  
 &emsp;[7](https://leetcode.com/problems/reverse-integer/) [Reverse Integer](src/math/medium/Reverse_Integer_7.java)   
 
-### String
+### string
 ![Easy](https://img.shields.io/badge/Easy-00b8a3)  
 &emsp;[13](https://leetcode.com/problems/roman-to-integer/) [Roman to Integer](src/string/easy/Roman_to_Integer_13.java)   
 

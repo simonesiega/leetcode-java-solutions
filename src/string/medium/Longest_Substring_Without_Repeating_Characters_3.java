@@ -1,4 +1,4 @@
-package String.medium;
+package string.medium;
 
 /*
 Problem: Longest Substring Without Repeating Characters (LeetCode #3)

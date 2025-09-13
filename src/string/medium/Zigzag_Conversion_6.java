@@ -1,4 +1,4 @@
-package String.medium;
+package string.medium;
 
 /*
 Problem: ZigZag Conversion (LeetCode #6)
