@@ -37,12 +37,13 @@ Ogni file `.java` contiene:
 &emsp;[2](https://leetcode.com/problems/add-two-numbers/) [Add Two Numbers](src/array/medium/Add_Two_Numbers_2.java)  
 
 ### Math
-![Easy](https://img.shields.io/badge/Easy-00b8a3)  
-&emsp;[9](https://leetcode.com/problems/palindrome-number/) [Palindrome Number](src/math/easy/Palindrome_Number_9.java)   
-![Medium](https://img.shields.io/badge/Medium-f89c0e)  
+![Easy](https://img.shields.io/badge/Easy-00b8a3)   
+&emsp;[9](https://leetcode.com/problems/palindrome-number/) [Palindrome Number](src/math/easy/Palindrome_Number_9.java)  
+
+![Medium](https://img.shields.io/badge/Medium-f89c0e)   
 &emsp;[7](https://leetcode.com/problems/reverse-integer/) [Reverse Integer](src/math/medium/Reverse_Integer_7.java)   
 
-### string
+### String
 ![Easy](https://img.shields.io/badge/Easy-00b8a3)  
 &emsp;[13](https://leetcode.com/problems/roman-to-integer/) [Roman to Integer](src/string/easy/Roman_to_Integer_13.java)   
 
